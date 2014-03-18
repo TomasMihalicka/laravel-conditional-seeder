@@ -1,0 +1,22 @@
+{
+    "name": "phirational/laravel-conditional-seeder",
+    "description": "Laravel trait providing methods for conditional database seeding.",
+    "keywords": ["laravel", "conditional", "database", "seeder", "trait", "migration"],
+    "authors": [
+        {
+            "name": "Marek Viger",
+            "email": "viger@phirational.com",
+            "role": "Author"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.1.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Phirational\\LaravelConditionalSeeder\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}

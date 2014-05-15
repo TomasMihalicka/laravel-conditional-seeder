@@ -1,6 +1,4 @@
 # Migration conditions in Laravel database Seeder
-==========================
-
 PHP trait for Laravel providing methods for conditional database seeding.
 
 
